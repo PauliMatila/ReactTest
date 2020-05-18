@@ -30,3 +30,17 @@ a {
 .btn:hover {
   background: #666;
 }
+
+.btnStyle {
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 9px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
+
+.btnStyle:hover {
+  background: rgb(153, 0, 0);
+}
